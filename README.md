@@ -7,10 +7,10 @@ Reports created:
 - Customer Performance Report: Analyzes individual customer performance.
 
 - Market Performance vs Target: Compares market performance against set targets.
-
-- P&L by Fiscal Months: Monthly profit and loss breakdown.
-  
+ 
 - P&L (Profit and Loss) by Fiscal Year: Detailed profit and loss analysis by fiscal year.
+
+-  P&L by Fiscal Quarters: Quarterly profit and loss breakdown.
 
 - Performance Report by Division: Compares market performance by Division.
 
