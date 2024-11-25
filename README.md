@@ -8,9 +8,20 @@ Reports created:
 
 - Market Performance vs Target: Compares market performance against set targets.
 
+- P&L by Fiscal Months: Monthly profit and loss breakdown.
+  
 - P&L (Profit and Loss) by Fiscal Year: Detailed profit and loss analysis by fiscal year.
 
-- P&L by Fiscal Months: Monthly profit and loss breakdown.
+- Performance Report by Division: Compares market performance by Division.
+
+- Net Sales 2021 Performance by Market
+
+- Top 10 Products by percentage increase in Net Sales from 2020 to 2021
+
+- List of New Products sold in 2021
+
+- Report of Top & Bottom Products by Quantity Sold
+
 
 Tools used:
 
